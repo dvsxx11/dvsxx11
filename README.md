@@ -24,7 +24,7 @@ Busco desenvolver sistemas completos, bem estruturados e escaláveis, aplicando 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-## 🚀 Projetos
+## 🚀 Projetos Destacados
 
 <p>
   <a href="https://github.com/dvsxx11/Sistema-Vendas-Postgresql">
