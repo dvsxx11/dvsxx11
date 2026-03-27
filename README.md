@@ -1,6 +1,6 @@
 # Olá, eu sou Davi Silva Soares!
 
-Sou desenvolvedor full stack com foco em back end e estudante de Engenharia de Software de Teresina, Piauí, Brasil 🇧🇷
+Sou desenvolvedor back end e estudante de Engenharia de Software de Teresina, Piauí, Brasil 🇧🇷
 
 ---
 
