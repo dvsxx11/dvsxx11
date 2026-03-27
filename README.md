@@ -47,9 +47,6 @@ Busco desenvolver sistemas completos, bem estruturados e escaláveis, aplicando 
 ---
 
 ## 📫 Contato
-
-## 📫 Contato
-
 <p>
   <a href="mailto:davisilvasoares1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Davi%20Silva-red?style=for-the-badge&logo=gmail&logoColor=white"/>
