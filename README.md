@@ -1,13 +1,13 @@
 # Olá, eu sou Davi Silva Soares!
 
-Sou desenvolvedor back end e estudante de Engenharia de Software de Teresina, Piauí, Brasil 🇧🇷
+Sou desenvolvedor full stack e estudante de Engenharia de Software de Teresina, Piauí, Brasil 🇧🇷
 
 ---
 
 ## 🧑‍💻 Sobre mim:
 
 Sou estudante de Engenharia de Software com foco em desenvolvimento backend utilizando Java.
-Tenho experiência intermediária em desenvolvimento front-end, trabalhando com HTML, CSS e JavaScript para construção de interfaces funcionais e responsivas.
+Tenho experiência em desenvolvimento front-end, trabalhando com HTML, CSS e JavaScript para construção de interfaces funcionais e responsivas.
 
 Busco desenvolver sistemas completos, bem estruturados e escaláveis, aplicando boas práticas tanto no backend quanto na interface do usuário.
 
